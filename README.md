@@ -167,3 +167,7 @@ Michael Francis
 Infrastructure Engineering Portfolio Project  
 MGR Technologies
 ````
+
+Full Case Study
+Detailed PDF case study available in /docs:
+- WSUS-Patch-Governance-Case-Study.pdf
